@@ -3,3 +3,10 @@
     padding: 0;
     box-sizing: border-box;
 } */
+
+.color{
+    color: red;
+    border: 1px solid red;
+    padding: 2px;
+    cursor: pointer;
+}
